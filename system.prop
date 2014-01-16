@@ -3,6 +3,7 @@
 
 # cannot take spaces
 rild.libargs=-d /dev/smd0
+dalvik.vm.dexopt-data-only=1
 
 
 telephony.lteOnGsmDevice=1
